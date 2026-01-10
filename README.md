@@ -20,7 +20,7 @@ Capture move indicators (red circles)
 -Turn indicator showing whose turn it is
 -Coordinates (a-h, 1-8) on board edges
 
-3. Game Management
+**3. Game Management**
 -Move history with notation (e.g., "e4", "Nf3")
 -Undo move functionality
 -New game reset button
