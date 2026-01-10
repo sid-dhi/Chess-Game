@@ -30,6 +30,7 @@ Capture move indicators (red circles)
 🛠️ Technical Implementation
 Game State Management
 
+javascript
 // Key data structures
 let gameState = {
     board: [],              // 8x8 array representing the board
